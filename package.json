@@ -1,0 +1,15 @@
+{
+  "name": "@kecoyo/prettier-config",
+  "version": "0.0.4",
+  "description": "Prettier config used at GitHub",
+  "main": "index.js",
+  "repository": "kecoyo/prettier-config",
+  "keywords": [
+    "prettier"
+  ],
+  "files": [
+    "index.js"
+  ],
+  "author": "kecoyo",
+  "license": "MIT"
+}

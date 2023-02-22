@@ -1,4 +1,4 @@
-# prettier-config
+# @kecoyo/prettier-config
 
 Prettier config used at GitHub
 

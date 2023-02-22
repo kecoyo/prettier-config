@@ -3,13 +3,13 @@
   "version": "1.0.0",
   "description": "Prettier config used at GitHub",
   "main": "index.js",
-  "repository": "kecoyo/prettier-config",
+  "repository": "git@github.com:kecoyo/prettier-config.git",
   "keywords": [
     "prettier"
   ],
   "files": [
     "index.js"
   ],
-  "author": "kecoyo",
+  "author": "kecoyo <kecoyo@163.com>",
   "license": "MIT"
 }

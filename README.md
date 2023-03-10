@@ -1,6 +1,6 @@
 # prettier-config-ljlx
 
-Prettier config used at GitHub
+Prettier config used at ljlx
 
 ## Usage
 

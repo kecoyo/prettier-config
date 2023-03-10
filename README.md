@@ -1,4 +1,4 @@
-# @kecoyo/prettier-config
+# prettier-config-ljlx
 
 Prettier config used at GitHub
 
@@ -7,7 +7,7 @@ Prettier config used at GitHub
 Install the package using `npm` (or `yarn`)
 
 ```sh
-npm install --save-dev @kecoyo/prettier-config
+npm install --save-dev prettier-config-ljlx
 ```
 
 Add the `prettier` key to your `package.json`
@@ -16,7 +16,7 @@ Add the `prettier` key to your `package.json`
    "keywords": [
      "prettier"
    ],
-+  "prettier": "@kecoyo/prettier-config",
++  "prettier": "prettier-config-ljlx",
    "license": "MIT",
    "author": "GitHub Inc.",
    "main": "index.js"

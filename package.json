@@ -1,9 +1,9 @@
 {
-  "name": "@kecoyo/prettier-config",
+  "name": "prettier-config-ljlx",
   "version": "1.0.0",
-  "description": "Prettier config used at GitHub",
+  "description": "Prettier config used at ljlx",
   "main": "index.js",
-  "repository": "git@github.com:kecoyo/prettier-config.git",
+  "repository": "git@github.com:kecoyo/prettier-config-ljlx.git",
   "keywords": [
     "prettier"
   ],

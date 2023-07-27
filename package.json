@@ -1,6 +1,6 @@
 {
   "name": "prettier-config-ljlx",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Prettier config used at ljlx",
   "main": "index.js",
   "repository": "git@github.com:kecoyo/prettier-config-ljlx.git",
@@ -11,5 +11,9 @@
     "index.js"
   ],
   "author": "kecoyo <kecoyo@163.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "prettier-plugin-organize-imports": "^3.2.3",
+    "prettier-plugin-packagejson": "^2.4.5"
+  }
 }
